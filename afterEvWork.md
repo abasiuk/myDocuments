@@ -1,8 +1,8 @@
 <h1>Will be need</h1>
 
-http://bennettfeely.com/clippy/ - clip-path
-https://www.10bestdesign.com/dirtymarkup/css/ - format all code
-http://kenwheeler.github.io/slick/ - slick
+http://bennettfeely.com/clippy/ - clip-path <br>
+https://www.10bestdesign.com/dirtymarkup/css/ - format all code<br>
+http://kenwheeler.github.io/slick/ - slick<br>
 http://draeton.github.io/stitches/ - sprites generator
 https://developer.mozilla.org/ru/docs/Web/API/Node/childNodes - about js
 https://scotch.io/tutorials/building-your-own-javascript-modal-plugin - modal window
